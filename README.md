@@ -1,8 +1,8 @@
 # Memes-Recognition
 
 ## Data Collection
-    Downloading memes using chrome extension-535/2000
-    Downloading normal images using chrame extension-0/2000
+    Downloading memes using chrome extension-701/1000
+    Downloading normal images using chrame extension-0/1000
 
 ## Preprocessing:
     Reading images for the directory  d
