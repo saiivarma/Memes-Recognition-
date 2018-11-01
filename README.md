@@ -1,13 +1,13 @@
 # Memes-Recognition
 
 ## Data Collection
-    Downloading memes using chrome extension-701/1000
-    Downloading normal images using chrame extension-0/1000
+    Downloading memes using chrome extension-966
+    Downloading normal images using chrame extension-879
 
 ## Preprocessing:
-    Reading images for the directory  d
-    Resizing the image and storing into a list d
-    Coverting an array into tensor d
+    Reading images for the directory 
+    Resizing the image and storing into a list 
+    Coverting an array into tensor 
     labelling image arrays 
 
 ## Modelling
