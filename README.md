@@ -3,6 +3,7 @@
 ## Data Collection
     Downloading memes using chrome extension-966
     Downloading normal images using chrame extension-879
+    Used jpeg images
 
 ## Preprocessing:
     Reading images for the directory 
